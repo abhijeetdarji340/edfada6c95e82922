@@ -1,0 +1,5 @@
+Player URL:
+https://abhijeetdarji340.github.io/player/?list=https://raw.githubusercontent.com/abhijeetdarji340/edfada6c95e82922/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/abhijeetdarji340/edfada6c95e82922/refs/heads/master/github_master.m3u8
